@@ -4,10 +4,10 @@ import { DangerZone } from 'expo';
 let { Lottie } = DangerZone;
 const { width, height } = Dimensions.get('window');
 
-const animation1 = 'https://raw.githubusercontent.com/airbnb/lottie-react-native/master/example/animations/HamburgerArrow.json';
-const animation2 = 'https://raw.githubusercontent.com/airbnb/lottie-react-native/master/example/animations/PinJump.json';
-const animation3 = 'https://raw.githubusercontent.com/airbnb/lottie-react-native/master/example/animations/LottieLogo1.json';
-const animation4 = 'https://raw.githubusercontent.com/airbnb/lottie-react-native/master/example/animations/TwitterHeart.json';
+const animation1 = 'https://raw.githubusercontent.com/torrens/lottieAnimationTester/master/animations/1.json';
+const animation2 = 'https://raw.githubusercontent.com/torrens/lottieAnimationTester/master/animations/2.json';
+const animation3 = 'https://raw.githubusercontent.com/torrens/lottieAnimationTester/master/animations/3.json';
+const animation4 = 'https://raw.githubusercontent.com/torrens/lottieAnimationTester/master/animations/4.json';
 
 export default class App extends React.Component {
 
