@@ -1,0 +1,2 @@
+# lottieAnimationTester
+Lottie Animation Tester
